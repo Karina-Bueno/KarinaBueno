@@ -1,7 +1,7 @@
 Olá, sou a Karina Bueno!
 
 - 🔭 Atualmente estou no bootcamp Java Web da Generation, e  Certified Tech Developer na Digital House
-- 🌱 Estou atualmente estudando Front-End, Programação Imperativa, Banco de Dados 
+- 🌱 Estou atualmente estudando a linguagem JavaScript (JS), CSS, HTML,SASS
 - 📫 Contate-me no email: buenogkarina@gmail.com
 - 😄 Pronouns: Ela/Dela
 
