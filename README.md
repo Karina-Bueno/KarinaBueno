@@ -1,7 +1,7 @@
 Olá meu nome Karina Bueno, bem vindo ao meu github!!!
 
-- 🔭 Atualmente estou no bootcamp Java Web da Generation, e  Certified Tech Developer na Digital House
-- 🌱 Estou atualmente estudando a linguagem JavaScript (JS), CSS, HTML,SASS
+- 🔭 Atualmente estou no bootcamp Java Web da Generation, e estudo Certified Tech Developer na Digital House.
+- 🌱 Atualmente estou estudando a linguagem Java, JavaScript (JS), CSS, HTML, SASS.
 - 📫 Contate-me no email: buenogkarina@gmail.com
 - 😄 Pronouns: Ela/Dela
 
