@@ -1,7 +1,7 @@
 <h1>Olá meu nome é Karina, bem vindo ao meu github!!!</h1>
 
-- 🔭 Sou estudante do bootcamp Java Web da Generation, e estudo também Certified Tech Developer na Digital House.
-- 🌱 Atualmente estou estudando as linguagens e tecnologias: Java, JavaScript (JS), SASS(linguagem de folhas de estilo), HTML(linguagem de marcação), CSS(linguagem de marcação),  Python
+- 🔭 Sou formada pelo bootcamp de Java Web da Generation.
+- 🌱 Atualmente estou trabalhando como Desenvolvedora de Front-End na empresa Multi360.
 - 📫 Contate-me no email: buenogkarina@gmail.com
 - 😄 Pronouns: Ela/Dela
 
